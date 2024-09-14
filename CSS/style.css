@@ -180,7 +180,6 @@ footer p {
     font-size: 1rem;
 }
 
-/* Responsividad para pantallas pequeñas */
 @media (max-width: 768px) {
     #ventajas h2 {
         font-size: 2rem;
